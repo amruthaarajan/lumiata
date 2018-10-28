@@ -1,0 +1,1 @@
+{"id":"id-1941","birthDate":"Dec 10, 1932 12:00:00 AM","gender":"M","age":82,"length":3,"events":[{"date":"Feb 27, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"},{"date":"Feb 24, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"}]}

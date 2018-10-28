@@ -1,0 +1,1 @@
+{"id":"id-2221","birthDate":"Dec 15, 1963 12:00:00 AM","gender":"F","age":51,"length":100,"events":[{"date":"Aug 21, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"367.0"},{"date":"May 13, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"367.0"}]}

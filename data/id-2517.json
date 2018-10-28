@@ -1,0 +1,1 @@
+{"id":"id-2517","birthDate":"Feb 27, 1944 12:00:00 AM","gender":"M","age":71,"length":4,"events":[{"date":"Mar 28, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"},{"date":"Mar 24, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"}]}

@@ -1,0 +1,1 @@
+{"id":"id-951","birthDate":"Jan 27, 1950 12:00:00 AM","gender":"F","age":65,"length":0,"events":[{"date":"Mar 14, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"367.4"},{"date":"Mar 14, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"}]}

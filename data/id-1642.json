@@ -1,0 +1,1 @@
+{"id":"id-1642","birthDate":"Jul 14, 1945 12:00:00 AM","gender":"M","age":69,"length":0,"events":[{"date":"Jun 2, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"},{"date":"Jun 2, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"367.4"}]}

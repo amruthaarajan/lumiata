@@ -1,0 +1,1 @@
+{"id":"id-603","birthDate":"Dec 30, 2002 12:00:00 AM","gender":"F","age":12,"length":5,"events":[{"date":"Apr 29, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"},{"date":"Apr 24, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"}]}

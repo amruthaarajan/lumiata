@@ -1,0 +1,1 @@
+{"id":"id-1366","birthDate":"Nov 8, 1986 12:00:00 AM","gender":"M","age":28,"length":113,"events":[{"date":"Jun 24, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"},{"date":"Mar 2, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"}]}

@@ -1,0 +1,1 @@
+{"id":"id-1088","birthDate":"Sep 22, 1923 12:00:00 AM","gender":"F","age":92,"length":2,"events":[{"date":"Oct 9, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-10","icdCode":"Z01.00"},{"date":"Oct 7, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-10","icdCode":"Z01.00"}]}

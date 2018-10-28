@@ -1,0 +1,1 @@
+{"id":"id-438","birthDate":"Apr 17, 1943 12:00:00 AM","gender":"M","age":72,"length":0,"events":[{"date":"Dec 2, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-10","icdCode":"Z01.00"},{"date":"Dec 2, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-10","icdCode":"H52.13"}]}

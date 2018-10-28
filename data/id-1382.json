@@ -1,0 +1,1 @@
+{"id":"id-1382","birthDate":"Feb 24, 1942 12:00:00 AM","gender":"F","age":73,"length":4,"events":[{"date":"Aug 18, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"},{"date":"Aug 14, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"}]}

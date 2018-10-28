@@ -1,0 +1,1 @@
+{"id":"id-2408","birthDate":"Jun 4, 1967 12:00:00 AM","gender":"M","age":48,"length":0,"events":[{"date":"Jun 13, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"367.1"},{"date":"Jun 13, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"}]}

@@ -1,0 +1,1 @@
+{"id":"id-2091","birthDate":"Dec 3, 1947 12:00:00 AM","gender":"M","age":67,"length":295,"events":[{"date":"Nov 3, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-10","icdCode":"Z01.00"},{"date":"Jan 12, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"}]}

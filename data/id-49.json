@@ -1,0 +1,1 @@
+{"id":"id-49","birthDate":"Aug 18, 1932 12:00:00 AM","gender":"M","age":83,"length":329,"events":[{"date":"Dec 29, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-10","icdCode":"Z01.00"},{"date":"Feb 3, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"367.4"}]}

@@ -1,0 +1,1 @@
+{"id":"id-2062","birthDate":"Aug 18, 1957 12:00:00 AM","gender":"M","age":57,"length":1,"events":[{"date":"Jun 4, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"V72.0"},{"date":"Jun 3, 2015 12:00:00 AM","system":"http://hl7.org/fhir/sid/icd-9-cm","icdCode":"367.9"}]}
